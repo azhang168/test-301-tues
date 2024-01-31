@@ -1,2 +1,3 @@
 "Lin1" 
 "# new\n lines" 
+"# new/n line" 
